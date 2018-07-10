@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    int i = 0;
+    NSString *name;
+    if (i == 0) {
+        name = @"ce";
+    }
 }
 
 
